@@ -1,4 +1,4 @@
-﻿Hyper Ledger Fabricお勉強ノート[a]
+Hyper Ledger Fabricお勉強ノート[a]
 
 
 ・目的
@@ -303,8 +303,3 @@ Interoperability of Assets
 
 
     
-
-
-[a]こめんとてすと
-[b]I社によると、v0.6は10ノード程度が限界らしい・・・（ネットワークがジャムる） ※オフレコと言っていたので、社名は伏せます。
-[c]byくろさわ
